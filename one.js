@@ -1,6 +1,6 @@
 const display = () => {
   console.log("display - somethin");
-  console.log("pavan");
+  console.log("srujana");
 };
 
 display();
